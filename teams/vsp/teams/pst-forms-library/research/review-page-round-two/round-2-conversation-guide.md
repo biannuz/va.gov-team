@@ -1,13 +1,15 @@
 Review Page Round 2 Conversation Guide
 ======================================
 
--   UXPin Prototype ([Desktop](https://preview.uxpin.com/97fe1afd9dd5b538d36e48187b4a24133e2a6bed) - [Mobile](https://preview.uxpin.com/3f788e8c6673bebc0365fd5d08a28347037aa809))
+-   UXPin Prototype ([Desktop](https://tinyurl.com/ycxj283y) - [Mobile](https://tinyurl.com/2p952wf7))
 -  Shorter URLs
-    -   Desktop: <https://tinyurl.com/36ud9p34>
-    -   Mobile: <https://tinyurl.com/2xk47ejy>
+    -   Desktop: <https://tinyurl.com/ycxj283y>
+    -   Mobile: <https://tinyurl.com/2p952wf7>
 
 [Mobile testing guidance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/69833737d9fe22b8990bb987e7c50de13205c5d5/platform/research/planning/mobile-research-guidelines.md)
+
 Mural Board for notes
+
 Google sheet for notes
 
 Moderator logistics
